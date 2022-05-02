@@ -1,0 +1,32 @@
+  
+   
+   
+   body{
+       
+       
+    text-align: center;
+    margin-top: 150;
+        color:black;
+       line-height: 100px;;
+        background-color: beige;
+       
+    background-image:url(https://www.jenmansafaris.com/wp-content/uploads/2013/09/maxresdefault.jpg) ;
+    }
+   
+.Header {
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+ 
+ .h2 {padding-inline-end: 20px;}
+
+ .form {
+
+    background-color: gray;
+    font-family: 'Raleway', sans-serif;
+font-family: 'Water Brush', cursive;
+margin: 190px;
+
+
+
+
+ }
